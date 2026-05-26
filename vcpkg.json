@@ -1,0 +1,10 @@
+{
+  "name": "appgrab",
+  "version-string": "1.0.0",
+  "dependencies": [
+    "wxwidgets",
+    "sqlite3",
+    "cpr",
+    "nlohmann-json"
+  ]
+}
